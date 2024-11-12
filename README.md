@@ -18,7 +18,7 @@ You are welcome to open a pull request to contribute
 > [!WARNING]
 > If you choose to use the pull GitHub app, it deletes all the changes you made when it syncs to a new commit; so you should backup your changes.
 
-## Contributors
+## Contributors (They did the work I only forked and changed some things to my preference)
 [![Contrib](https://contrib.rocks/image?repo=eaglercraftx1-8/eaglercraftx1-8.github.io)](https://github.com/eaglercraftx1-8/eaglercraftx1-8.github.io/graphs/contributors)
 
 > [!TIP]
